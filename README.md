@@ -1,4 +1,4 @@
-### Olá! eu sou o João Victor 👨‍💻
+### Olá! Eu sou o João Victor 👨‍💻
 
 - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas | Centro Universitário Unifunec
 - 💻 Algoritmos e lógica de programação, C, HTML, CSS e JavaScript
